@@ -14,7 +14,7 @@ Image- and Video-Quality Metrics (BMVC 2022)
 
 ## Contributions
 
-* We employed a universal perturbation attack on seven differentiable NR metrics ([PaQ-2-PiQ](https://github.com/baidut/paq2piq), [Linearity](https://github.com/lidq92/LinearityIQA), [VSFA](https://github.com/lidq92/VSFA), [MDTVSFA](https://github.com/lidq92/MDTVSFA), [KonCept512](https://github.com/ZhengyuZhao/koniq-PyTorch), [Nima](https://github.com/truskovskiyk/nima.pytorch) and [SPAQ](https://github.com/h4nwei/SPAQ))
+* We employed a universal perturbation attack on seven differentiable NR metrics ([PaQ-2-PiQ](https://github.com/baidut/paq2piq), [Linearity](https://github.com/lidq92/LinearityIQA), [VSFA](https://github.com/lidq92/VSFA), [MDTVSFA](https://github.com/lidq92/MDTVSFA), [KonCept512](https://github.com/ZhengyuZhao/koniq-PyTorch), [Nima](https://github.com/truskovskiyk/nima.pytorch/tree/v1) and [SPAQ](https://github.com/h4nwei/SPAQ))
 * We applied trained UAPs to FullHD video frames before compression and proposed a method for comparing metrics stability based on RD curves to identify metrics that are the most resistant to UAP attack
 
 ## Proposed Method
@@ -57,7 +57,7 @@ target-metric gain and the higher PSNR loss are, the more stable is the metric*
 | [VSFA](https://github.com/lidq92/VSFA) | -3.8 | 0.90 | 0.75 |
 | [MDTVSFA](https://github.com/lidq92/MDTVSFA) | -4.8 | <b>0.93</b> | <b>0.78</b> |
 | [KonCept512](https://github.com/ZhengyuZhao/koniq-PyTorch) | -0.3 | 0.84 | 0.73 |
-| [Nima](https://github.com/truskovskiyk/nima.pytorch) | 2.6 | 0.85 | - |
+| [Nima](https://github.com/truskovskiyk/nima.pytorch/tree/v1) | 2.6 | 0.85 | - |
 | [SPAQ](https://github.com/h4nwei/SPAQ) | <b>-0.1</b> | 0.88 | - |
 
 *Stability scores and Spearman correlation coefficient (SRCC) correlations for all tested metrics. Our rating shows which metrics are stable and which are easily increased by attack*
