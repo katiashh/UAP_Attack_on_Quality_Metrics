@@ -3,7 +3,7 @@ on Differentiable No-Reference
 Image- and Video-Quality Metrics (BMVC 2022)
 ==============
 
-[[BMVC Proceedings]()] [[ArXiv]()]
+[[BMVC Proceedings](https://bmvc2022.mpi-inf.mpg.de/790/)] [[ArXiv](https://arxiv.org/abs/2211.00366)]
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15NRDymIFkNJS9nM3bBKiE3tlk9MJleXO?usp=sharing)
 
