@@ -69,6 +69,9 @@ complement traditional subjective tests and benchmarks.
 
 ## Citation
 
+If you use this code for your research, please cite our papers.
+
+```
 @inproceedings{Shumitskaya_2022_BMVC,
 author    = {Ekaterina Shumitskaya and Anastasia Antsiferova and Dmitriy S Vatolin},
 title     = {Universal Perturbation Attack on Differentiable No-Reference Image- and Video-Quality Metrics},
@@ -77,3 +80,4 @@ publisher = {{BMVA} Press},
 year      = {2022},
 url       = {https://bmvc2022.mpi-inf.mpg.de/0790.pdf}
 }
+```
