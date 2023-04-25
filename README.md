@@ -66,3 +66,14 @@ target-metric gain and the higher PSNR loss are, the more stable is the metric*
 We
 recommend the proposed method as an additional verification of metric reliability to
 complement traditional subjective tests and benchmarks.
+
+## Citation
+
+@inproceedings{Shumitskaya_2022_BMVC,
+author    = {Ekaterina Shumitskaya and Anastasia Antsiferova and Dmitriy S Vatolin},
+title     = {Universal Perturbation Attack on Differentiable No-Reference Image- and Video-Quality Metrics},
+booktitle = {33rd British Machine Vision Conference 2022, {BMVC} 2022, London, UK, November 21-24, 2022},
+publisher = {{BMVA} Press},
+year      = {2022},
+url       = {https://bmvc2022.mpi-inf.mpg.de/0790.pdf}
+}
