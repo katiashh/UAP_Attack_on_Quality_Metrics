@@ -69,7 +69,7 @@ complement traditional subjective tests and benchmarks.
 
 ## Citation
 
-If you use this code for your research, please cite our papers.
+If you use this code for your research, please cite our paper.
 
 ```
 @inproceedings{Shumitskaya_2022_BMVC,
